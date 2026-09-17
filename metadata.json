@@ -1,0 +1,6 @@
+{
+  "name": "Video Showcase",
+  "description": "A clean, mobile-friendly webpage with a dark background featuring a video thumbnail placeholder, sample text, and styled call-to-action button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
